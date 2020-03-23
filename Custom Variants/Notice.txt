@@ -1,0 +1,2 @@
+This Section contains Source code for Custom Variants of Cstorm Malware For Educational Use.
+Binaries will not be provided for Source code in this section.
